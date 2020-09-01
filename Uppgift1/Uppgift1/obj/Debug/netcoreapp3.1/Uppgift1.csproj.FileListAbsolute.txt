@@ -1,0 +1,13 @@
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Uppgift1\Uppgift1\bin\Debug\netcoreapp3.1\Uppgift1.exe
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Uppgift1\Uppgift1\bin\Debug\netcoreapp3.1\Uppgift1.deps.json
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Uppgift1\Uppgift1\bin\Debug\netcoreapp3.1\Uppgift1.runtimeconfig.json
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Uppgift1\Uppgift1\bin\Debug\netcoreapp3.1\Uppgift1.runtimeconfig.dev.json
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Uppgift1\Uppgift1\bin\Debug\netcoreapp3.1\Uppgift1.dll
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Uppgift1\Uppgift1\bin\Debug\netcoreapp3.1\Uppgift1.pdb
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Uppgift1\Uppgift1\obj\Debug\netcoreapp3.1\Uppgift1.csprojAssemblyReference.cache
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Uppgift1\Uppgift1\obj\Debug\netcoreapp3.1\Uppgift1.AssemblyInfoInputs.cache
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Uppgift1\Uppgift1\obj\Debug\netcoreapp3.1\Uppgift1.AssemblyInfo.cs
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Uppgift1\Uppgift1\obj\Debug\netcoreapp3.1\Uppgift1.csproj.CoreCompileInputs.cache
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Uppgift1\Uppgift1\obj\Debug\netcoreapp3.1\Uppgift1.dll
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Uppgift1\Uppgift1\obj\Debug\netcoreapp3.1\Uppgift1.pdb
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Uppgift1\Uppgift1\obj\Debug\netcoreapp3.1\Uppgift1.genruntimeconfig.cache
