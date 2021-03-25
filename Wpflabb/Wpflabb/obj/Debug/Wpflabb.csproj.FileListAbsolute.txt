@@ -1,0 +1,15 @@
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\bin\Debug\Wpflabb.exe.config
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\bin\Debug\Wpflabb.exe
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\bin\Debug\Wpflabb.pdb
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\obj\Debug\Wpflabb.csprojAssemblyReference.cache
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\obj\Debug\MainWindow.g.cs
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\obj\Debug\App.g.cs
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\obj\Debug\Wpflabb_MarkupCompile.cache
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\obj\Debug\Wpflabb_MarkupCompile.lref
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\obj\Debug\MainWindow.baml
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\obj\Debug\Wpflabb.g.resources
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\obj\Debug\Wpflabb.Properties.Resources.resources
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\obj\Debug\Wpflabb.csproj.GenerateResource.cache
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\obj\Debug\Wpflabb.csproj.CoreCompileInputs.cache
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\obj\Debug\Wpflabb.exe
+C:\Users\ranko.ranilovic\Documents\GitHub\Programmering2\Wpflabb\Wpflabb\obj\Debug\Wpflabb.pdb
